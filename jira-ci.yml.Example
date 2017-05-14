@@ -1,0 +1,6 @@
+jiraserver: https://jira.example.org
+apiuser:    username
+apipass:    password
+project:    PROJ
+type:       Bug
+assignee:   user.name
